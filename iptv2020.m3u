@@ -4,7 +4,7 @@
 http://stream.tvtap.live:8081/live/es-movistaresternos.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjA0OjM3IFBNJmhhc2hfdmFsdWU9N3N1QlFhbElCVjF2aExkUVFoajRnUT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="901" group-title="Favoritos",Movistar Comedia
-http://stream.tvtap.live:8081/live/es-movistar-comedie.stream/l_218222344_93381_28.ts?nimblesessionid=16928556470&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjE4OjExIFBNJmhhc2hfdmFsdWU9OE9LR3RKcDEzUXFGT0ZrYXJ1TFRLQT09JnZhbGlkbWludXRlcz0yMA==
+http://stream.tvtap.live:8081/live/es-movistar-comedie.stream/chunks.m3u8?nimblesessionid=16928556470&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjE4OjExIFBNJmhhc2hfdmFsdWU9OE9LR3RKcDEzUXFGT0ZrYXJ1TFRLQT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="903" group-title="Favoritos",Movistar Accion
 http://stream.tvtap.live:8081/live/es-movistar-accion.stream/chunks.m3u8?nimblesessionid=16929015684&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjIyOjMwIFBNJmhhc2hfdmFsdWU9MzN4eHg2VXVVWVVaQUN0bTRkcXZiUT09JnZhbGlkbWludXRlcz0yMA==
