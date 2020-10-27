@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="900" group-title="Favoritos",Movistar Estrenos
-http://stream.tvtap.live:8081/live/es-movistaresternos.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjA0OjM3IFBNJmhhc2hfdmFsdWU9N3N1QlFhbElCVjF2aExkUVFoajRnUT09JnZhbGlkbWludXRlcz0yMA==
+http://stream.tvtap.live:8081/live/es-movistaresternos.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjA0OjM3IFBNJmhhc2hfdmFsdWU9N3N1QlFhbElCVjF2aExkUVFoajRnUT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="901" group-title="Favoritos",Movistar Comedia
 http://stream.tvtap.live:8081/live/es-movistar-comedie.stream/chunks.m3u8?nimblesessionid=16928556470&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjE4OjExIFBNJmhhc2hfdmFsdWU9OE9LR3RKcDEzUXFGT0ZrYXJ1TFRLQT09JnZhbGlkbWludXRlcz0yMA==
@@ -19,7 +19,7 @@ http://stream.tvtap.live:8081/live/es-movistar-dcine.stream/chunks.m3u8?nimblese
 http://stream.tvtap.live:8081/live/es-tnt.stream/chunks.m3u8?nimblesessionid=16929577877&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI2OjU4IFBNJmhhc2hfdmFsdWU9RjdSV0k1c3g5N2pwZDEybUtWYUNnZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="907" group-title="Favoritos",La Liga
-http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI4OjQ2IFBNJmhhc2hfdmFsdWU9T2lDdlVYTkhhZDVSdmRSMkZZUXNBdz09JnZhbGlkbWludXRlcz0yMA==
+http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI4OjQ2IFBNJmhhc2hfdmFsdWU9T2lDdlVYTkhhZDVSdmRSMkZZUXNBdz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="908" group-title="Favoritos",Fox Spa
 http://stream.tvtap.live:8081/live/es-fox.stream/chunks.m3u8?nimblesessionid=16929923274&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI5OjMxIFBNJmhhc2hfdmFsdWU9aVNHN3pKR1ZpUkJOVzh4dEptVnhXZz09JnZhbGlkbWludXRlcz0yMA==
