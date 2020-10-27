@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="900" group-title="Favoritos",Movistar Estrenos
-http://stream.tvtap.live:8081/live/es-movistaresternos.stream/chunks.m3u8?nimblesessionid=16928556470&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjE4OjExIFBNJmhhc2hfdmFsdWU9OE9LR3RKcDEzUXFGT0ZrYXJ1TFRLQT09JnZhbGlkbWludXRlcz0yMA==
+http://stream.tvtap.live:8081/live/es-movistaresternos.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjM5OjM0IFBNJmhhc2hfdmFsdWU9MG1Ccm9jUjF3Y1NWZlRIUFZDR2djZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="901" group-title="Favoritos",Movistar Comedia
 http://stream.tvtap.live:8081/live/es-movistar-comedie.stream/chunks.m3u8?nimblesessionid=16928556470&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjE4OjExIFBNJmhhc2hfdmFsdWU9OE9LR3RKcDEzUXFGT0ZrYXJ1TFRLQT09JnZhbGlkbWludXRlcz0yMA==
@@ -10,7 +10,7 @@ http://stream.tvtap.live:8081/live/es-movistar-comedie.stream/chunks.m3u8?nimble
 http://stream.tvtap.live:8081/live/es-movistar-accion.stream/chunks.m3u8?nimblesessionid=16929015684&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjIyOjMwIFBNJmhhc2hfdmFsdWU9MzN4eHg2VXVVWVVaQUN0bTRkcXZiUT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="904" group-title="Favoritos",Movistar Cine ñ
-http://stream.tvtap.live:8081/live/es-moviestarcinen.stream/chunks.m3u8?nimblesessionid=16929291661&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI0OjQ0IFBNJmhhc2hfdmFsdWU9SnJxUUZKbkdVbzVjcU5HZTF2bnB6QT09JnZhbGlkbWludXRlcz0yMA==
+http://stream.tvtap.live:8081/live/es-moviestarcinen.stream/chunks.m3u8?nimblesessionid=16938899257&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjM2OjQxIFBNJmhhc2hfdmFsdWU9MUIvQllqR3VjOGhJRkpFUVlzN01JZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="905" group-title="Favoritos",Movistar Drama
 http://stream.tvtap.live:8081/live/es-movistar-dcine.stream/chunks.m3u8?nimblesessionid=16929434759&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI1OjUxIFBNJmhhc2hfdmFsdWU9dlhoZ3ZNQzUyeDVFN2V0NzRyc0lzdz09JnZhbGlkbWludXRlcz0yMA==
@@ -19,10 +19,10 @@ http://stream.tvtap.live:8081/live/es-movistar-dcine.stream/chunks.m3u8?nimblese
 http://stream.tvtap.live:8081/live/es-tnt.stream/chunks.m3u8?nimblesessionid=16929577877&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI2OjU4IFBNJmhhc2hfdmFsdWU9RjdSV0k1c3g5N2pwZDEybUtWYUNnZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="907" group-title="Favoritos",La Liga
-http://stream.tvtap.live:8081/live/es-movistarlaliga.stream/chunks.m3u8?nimblesessionid=16928556470&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjE4OjExIFBNJmhhc2hfdmFsdWU9OE9LR3RKcDEzUXFGT0ZrYXJ1TFRLQT09JnZhbGlkbWludXRlcz0yMA==
+http://stream.tvtap.live:8081/live/es-laligatvbar.stream/chunks.m3u8?nimblesessionid=16938519504&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjMzOjQ0IFBNJmhhc2hfdmFsdWU9T3NrNjh0cHBDVGpLWGp6VEZ0WEJ1Zz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="908" group-title="Favoritos",Fox Spa
-http://stream.tvtap.live:8081/live/es-fox.stream/chunks.m3u8?nimblesessionid=16929923274&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI5OjMxIFBNJmhhc2hfdmFsdWU9aVNHN3pKR1ZpUkJOVzh4dEptVnhXZz09JnZhbGlkbWludXRlcz0yMA==
+http://stream.tvtap.live:8081/live/es-fox.stream/chunks.m3u8?nimblesessionid=16938292412&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjMyOjA5IFBNJmhhc2hfdmFsdWU9Q053UVNCUkNLc3dOSHVUYVkxdUdCdz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="909" group-title="Favoritos",Eurosport 1
 http://stream.tvtap.live:8081/live/es-eurosport1.stream/chunks.m3u8?nimblesessionid=16930083697&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjMwOjM4IFBNJmhhc2hfdmFsdWU9ZmRacjE0Z055NHNudjlJSEFFMjJuQT09JnZhbGlkbWludXRlcz0yMA==
@@ -44,6 +44,12 @@ http://stream.tvtap.live:8081/live/es-moviestar0.stream/chunks.m3u8?nimblesessio
 
 #EXTINF:-1 tvg-id="915" group-title="Favoritos",Calle 13
 http://stream.tvtap.live:8081/live/es-calle-13.stream/chunks.m3u8?nimblesessionid=16931020189&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjM3OjUzIFBNJmhhc2hfdmFsdWU9a2pCVnZIZlpsNFo5S2djVzA5Yzk1dz09JnZhbGlkbWludXRlcz0yMA==
+
+#EXTINF:-1 tvg-id="917" group-title="Favoritos",Movistar Series
+http://stream.tvtap.live:8081/live/es-movistar-series.stream/chunks.m3u8?nimblesessionid=16939450197&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjQwOjM2IFBNJmhhc2hfdmFsdWU9bnQ2dU4yMkdlVXVoVXgydlIyVzhBUT09JnZhbGlkbWludXRlcz0yMA==
+
+#EXTINF:-1 tvg-id="918" group-title="Favoritos",Movistar Xtra Rock n Roll
+http://stream.tvtap.live:8081/live/es-movistar-xtra.stream/chunks.m3u8?nimblesessionid=16939579876&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjQxOjMwIFBNJmhhc2hfdmFsdWU9YWJhdHkyWFNMRHR1eVo4anJ4SWJ0dz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="916" tvg-logo="http://live.tvgenius.net:80/accessible/assets/css/images/bullet-one.gif" group-title="MUSICA",MTV Dance UK
 http://stream.tvtap.live:8081/live/mtvdance.stream/chunks.m3u8?nimblesessionid=16931191152&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjM5OjA5IFBNJmhhc2hfdmFsdWU9QUlwdGg4UUQ5aXh5MXZPZ2dQcUhxQT09JnZhbGlkbWludXRlcz0yMA==
@@ -68,6 +74,9 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://66.240.236.25/lasupertv/mobile/play.jpg" group-title="MUSICA",La Super TV (Colombia)
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+
+#EXTINF:-1 tvg-id="918" group-title="MUSICA",Ibiza
+http://ingest.streaming-pro.com:1935/ibgr/ibgrlive
 
 #EXTINF:-1 tvg-id="182" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="MUSICA",Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
