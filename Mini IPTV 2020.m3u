@@ -4,10 +4,9 @@
 http://stream.tvtap.live:8081/live/es-movistaresternos.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjM5OjM0IFBNJmhhc2hfdmFsdWU9MG1Ccm9jUjF3Y1NWZlRIUFZDR2djZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="901" group-title="Favoritos",Movistar Comedia
-http://stream.tvtap.live:8081/live/es-movistar-comedie.stream/chunks.m3u8?nimblesessionid=16928556470&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjE4OjExIFBNJmhhc2hfdmFsdWU9OE9LR3RKcDEzUXFGT0ZrYXJ1TFRLQT09JnZhbGlkbWludXRlcz0yMA==
-
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts
 #EXTINF:-1 tvg-id="903" group-title="Favoritos",Movistar Accion
-http://stream.tvtap.live:8081/live/es-movistar-accion.stream/chunks.m3u8?nimblesessionid=16929015684&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjIyOjMwIFBNJmhhc2hfdmFsdWU9MzN4eHg2VXVVWVVaQUN0bTRkcXZiUT09JnZhbGlkbWludXRlcz0yMA==
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
 
 #EXTINF:-1 tvg-id="904" group-title="Favoritos",Movistar Cine ñ
 http://stream.tvtap.live:8081/live/es-moviestarcinen.stream/chunks.m3u8?nimblesessionid=16938899257&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjM2OjQxIFBNJmhhc2hfdmFsdWU9MUIvQllqR3VjOGhJRkpFUVlzN01JZz09JnZhbGlkbWludXRlcz0yMA==
