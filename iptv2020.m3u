@@ -475,7 +475,7 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" tvg-country="AR" tvg-url="" group-title="Spanish",5RTV Santa Fe
 https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/M0JqHa9.png" tvg-country="ES" tvg-url="" group-title="Local",7 Murcia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/M0JqHa9.png" tvg-country="ES" tvg-url="" group-title="Spanish",7 Murcia
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sZ1yE4e.png" tvg-country="AR" tvg-url="" group-title="Spanish",9 MULTIVISION HD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -779,12 +779,10 @@ http://video-ply.pauta.cl/playlist/stream.m3u8
 https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" tvg-country="ES" tvg-url="" group-title="Spanish",Popular TV Melilla
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="CL" tvg-url="" group-title="Music",Portalfoxmix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="CL" tvg-url="" group-title="MUSICA",Portalfoxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" tvg-url="" group-title="Spanish",Portalfoxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" tvg-url="" group-title="Music",Portalfoxmix
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/umdJ2mP.jpg" tvg-country="CL" tvg-url="" group-title="Spanish",Portalfoxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="CL" tvg-url="" group-title="Spanish",Portalfoxmix
