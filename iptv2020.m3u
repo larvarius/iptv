@@ -1,56 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="900" group-title="Favoritos",Movistar Estrenos
-http://stream.tvtap.live:8081/live/es-movistaresternos.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjM5OjM0IFBNJmhhc2hfdmFsdWU9MG1Ccm9jUjF3Y1NWZlRIUFZDR2djZz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="901" group-title="Favoritos",Movistar Comedia
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts
-#EXTINF:-1 tvg-id="903" group-title="Favoritos",Movistar Accion
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
-
-#EXTINF:-1 tvg-id="904" group-title="Favoritos",Movistar Cine ñ
-http://stream.tvtap.live:8081/live/es-moviestarcinen.stream/chunks.m3u8?nimblesessionid=16938899257&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjM2OjQxIFBNJmhhc2hfdmFsdWU9MUIvQllqR3VjOGhJRkpFUVlzN01JZz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="905" group-title="Favoritos",Movistar Drama
-http://stream.tvtap.live:8081/live/es-movistar-dcine.stream/chunks.m3u8?nimblesessionid=16929434759&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI1OjUxIFBNJmhhc2hfdmFsdWU9dlhoZ3ZNQzUyeDVFN2V0NzRyc0lzdz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="906" group-title="Favoritos",TNT Series
-http://stream.tvtap.live:8081/live/es-tnt.stream/chunks.m3u8?nimblesessionid=16929577877&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjI2OjU4IFBNJmhhc2hfdmFsdWU9RjdSV0k1c3g5N2pwZDEybUtWYUNnZz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="907" group-title="Favoritos",La Liga
-http://stream.tvtap.live:8081/live/es-laligatvbar.stream/chunks.m3u8?nimblesessionid=16938519504&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjMzOjQ0IFBNJmhhc2hfdmFsdWU9T3NrNjh0cHBDVGpLWGp6VEZ0WEJ1Zz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="908" group-title="Favoritos",Fox Spa
-http://stream.tvtap.live:8081/live/es-fox.stream/chunks.m3u8?nimblesessionid=16938292412&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjMyOjA5IFBNJmhhc2hfdmFsdWU9Q053UVNCUkNLc3dOSHVUYVkxdUdCdz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="909" group-title="Favoritos",Eurosport 1
-http://stream.tvtap.live:8081/live/es-eurosport1.stream/chunks.m3u8?nimblesessionid=16930083697&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjMwOjM4IFBNJmhhc2hfdmFsdWU9ZmRacjE0Z055NHNudjlJSEFFMjJuQT09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="910" group-title="Favoritos",Eurosport 2
-http://stream.tvtap.live:8081/live/es-eurosport2.stream/chunks.m3u8?nimblesessionid=16930163164&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjMxOjI2IFBNJmhhc2hfdmFsdWU9Y2RwbXd4ZmtrV1FhZHYwTlZYclg0Zz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="911" group-title="Favoritos",Bein La Liga
-http://stream.tvtap.live:8081/live/bein-laliga.stream/chunks.m3u8?nimblesessionid=16930270748&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjMyOjE1IFBNJmhhc2hfdmFsdWU9TTdxMUZpNU9aV1hSUU0zMXluc2tSdz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="912" group-title="Favoritos",AXN
-http://stream.tvtap.live:8081/live/es-axn.stream/chunks.m3u8?nimblesessionid=16930429792&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjMzOjMwIFBNJmhhc2hfdmFsdWU9SUFBVDN3Y2lzNnZBS3pxdTJzK0tLdz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="913" group-title="Favoritos",AXN White
-http://stream.tvtap.live:8081/live/es-axn-white.stream/chunks.m3u8?nimblesessionid=16930412213&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjMzOjIyIFBNJmhhc2hfdmFsdWU9TXdmQmVPWnFHWHFKakFHTVdyM2Rudz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="914" group-title="Favoritos",Movistar 0
-http://stream.tvtap.live:8081/live/es-moviestar0.stream/chunks.m3u8?nimblesessionid=16930889838&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjM2OjU3IFBNJmhhc2hfdmFsdWU9WXVYL29HL21mNVJreE44cGRZd2Radz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="915" group-title="Favoritos",Calle 13
-http://stream.tvtap.live:8081/live/es-calle-13.stream/chunks.m3u8?nimblesessionid=16931020189&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAyOjM3OjUzIFBNJmhhc2hfdmFsdWU9a2pCVnZIZlpsNFo5S2djVzA5Yzk1dz09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="917" group-title="Favoritos",Movistar Series
-http://stream.tvtap.live:8081/live/es-movistar-series.stream/chunks.m3u8?nimblesessionid=16939450197&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjQwOjM2IFBNJmhhc2hfdmFsdWU9bnQ2dU4yMkdlVXVoVXgydlIyVzhBUT09JnZhbGlkbWludXRlcz0yMA==
-
-#EXTINF:-1 tvg-id="918" group-title="Favoritos",Movistar Xtra Rock n Roll
-http://stream.tvtap.live:8081/live/es-movistar-xtra.stream/chunks.m3u8?nimblesessionid=16939579876&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMCAzOjQxOjMwIFBNJmhhc2hfdmFsdWU9YWJhdHkyWFNMRHR1eVo4anJ4SWJ0dz09JnZhbGlkbWludXRlcz0yMA==
-
-
 #EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Argentina1",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 
@@ -471,7 +420,7 @@ https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://ibizaglobal.tv/wp-content/uploads/2017/03/LOGO-GLOBALTV.png" group-title="MUSICA",Ibiza Global TV (España)
-http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="MUSICA",Music Top (Argentina)
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -562,8 +511,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="PE" tvg-url="" group-title="Spanish",BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="Boing" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" tvg-country="ES" tvg-url="" group-title="Spanish",Boing
-https://pastebin.com/raw/afgk7wAC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PA3tDVr.png" tvg-country="BO" tvg-url="" group-title="Spanish",Bolivia TV Deportes 7.2
 http://btvboliviatv.srfms.com:6568/live/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AFT43kx.png" tvg-country="ES" tvg-url="" group-title="Spanish",Cadena Elite
@@ -904,8 +851,6 @@ https://accionastream.com/live/sertv/playlist.m3u8
 http://st2.worldkast.com/8030/8030/Sitv-Honduras.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/trzcUdT.png" tvg-country="HN" tvg-url="" group-title="Spanish",Si TV
 https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" tvg-country="ES" tvg-url="" group-title="Spanish",Sophia TV
-https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" tvg-country="DO" tvg-url="" group-title="Spanish",Super TV 55 Santiago
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" tvg-country="CO" tvg-url="" group-title="Spanish",Suram
@@ -1125,9 +1070,6 @@ http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-id="654" tvg-logo="https://i.imgur.com/1E41Fs3.png" group-title="USA",Antenna TV
 http://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 
-#EXTINF:-1 tvg-id="655" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="USA",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-
 #EXTINF:-1 tvg-id="656" tvg-logo="https://i.imgur.com/JS08AAb.png" group-title="USA",Bounce TV
 http://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 
@@ -1169,9 +1111,6 @@ http://190.80.3.28/CW/CW.isml/index.m3u8
  
 #EXTINF:-1 tvg-id="669" tvg-logo="https://i.imgur.com/4rUusB8.png" group-title="USA",DABL
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
-
-#EXTINF:-1 tvg-id="670" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="USA",Disney Junior
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 
 #EXTINF:-1 tvg-id="671" tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="USA",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
