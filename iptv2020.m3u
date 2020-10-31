@@ -26,6 +26,15 @@ http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iLh4q2x.png" group-title="Argentina1",Garage TV (Argentina)
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
  
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DeporTV_%282020%29.png/200px-DeporTV_%282020%29.png" group-title="Argentina 1",Depor TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203420/ei/PN-dX9HzKoPSxQTm94CwDQ/ip/45.179.72.1/id/PDWQpbMqpGE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgM6ItYWYXqiiRatEYZydy2tjhpTQ4GKHRP_K3lqI4GfQCIQCEmBx7745NuDwpj0-y_m9UnrnZjf0pp8SxnZh_QYDBLQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="Argentina 1",Encuentro
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203583/ei/39-dX8OfEojNwATS6r3oBQ/ip/45.179.72.1/id/pGd_pI9g4F4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF4Dnpf4ZJ98u1GjyTQg175XyNqJFHuRPuHJwFdJiRTgCIHxt2R5fGhP5TUXry2vSRysWKejPPoJggJjvCxksCgpG/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Canal_de_la_Ciudad.png/133px-Logo_Canal_de_la_Ciudad.png" group-title="Argentina 1",Canal de la Ciudad
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203778/ei/oeCdX4uXOuaI-LAPiMqb2As/ip/45.179.72.1/id/awXmi7K2Agk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMlucTA8ip8EHBpXCuECL_Ujtnb60JnlaA6DGzZqIza9AiBSTytlKQZ6dW5yBKDDuJ-3XE2ujLLK3AL8GJNUPtb3_w%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/fgrauI0.png" group-title="Argentina1",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
  
@@ -55,6 +64,7 @@ http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="147" tvg-logo="https://i.imgur.com/2cprJRx.png" group-title="Argentina1",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" tvg-country="AR" tvg-url="" group-title="Argentina2",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
@@ -1845,57 +1855,29 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604189273/ei/-
 #EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Obelisco BsAs 2
 https://hddn00.skylinewebcams.com/live.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams", Roma (Plaza Navona)
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams", Guadalajara (Mexico)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604202489/ei/mdudX7WqA8f6wgT59L_ADg/ip/45.179.72.1/id/a-eACZgkzjk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKb4p4x0H70_xPeooKHbcq2WjONn80FKSaneKoPyHw_oCIEGNM3fWC_bcQlsy_ueX6b8W4FWM_FrMdtogs5DThaEO/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Paris (Torre Eiffel)
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",London
+https://hddn00.https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604202629/ei/JdydX9Mdi__ABJCXuKgM/ip/45.179.72.1/id/NH-O4gTnsqs.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLNzOdTH0yP0oiVaNOsBWZd8CM_QZ-046KS5_Co_R_q8CIGKH-Tx6EspSWJ3jYGwbDYxcKB6n8hVfr8WgTeMfROW2/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Roma (Coliseo)
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Bodøterminalen (Norway)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604202715/ei/e9ydX4uYJJnqxgT0ppqAAg/ip/45.179.72.1/id/5BHJBR3_dv8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANF3w_UFMbkYxGps_GZLfBpf0vhHKo7oUGIGfvQftdS5AiB_7OuxVo3FR5y76AxxWx_s0a4Ps38r3ES_HRJe8Y6ilw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Ciudad de Mexico
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Italia - Norcia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604202952/ei/aN2dX6vRNNPYwgSlwrbgDg/ip/45.179.72.1/id/C78daVqDpB8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgW24gge-x8C5619cndSgHuXt1NTD47jhLtv6PglG9geYCIQDx4a2xRiFZdmf0_Gm7e_DSGpFxAmC12_4KhkZogPlOoA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Playa de Tenerife
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Alaska
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203222/ei/dt6dX6-tIM64xwTR0Z6QBw/ip/45.179.72.1/id/RtreWYd0EQo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANo6ZWEgOjS26CYyb_mu79WpMLJkCpdxfKUpbdyQyX7dAiA2nksO8zntneKrZItbzT-OcPUyBJ-eyWiYwFv7U2pWGg%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_10534179251.jpg" group-title="Live Cams",Ushuaia (Tren del Fin del Mundo)
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Oxford
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604204534/ei/luOdX8mPFdPYwgSrkYbgAQ/ip/45.179.72.1/id/St7aTfoIdYQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPbyPd0tqMmYJuS6TSJFpVe3OKrt4ehOt7SRvEmoldqrAiBH4jzBoIlr7obgLtZXi8FEG26eEqQYoIssf7usw-Ozpg%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_7784179431.jpg" group-title="Live Cams",Ushuaia 3
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Santa Monica Beach (USA)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604204628/ei/9OOdX_ivNoONwwTatKyIAQ/ip/45.179.72.1/id/OWbI6WtlI-k.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP7x95q1nN0kR41BXRsMSvkjFsH7oV8mpNArrVOEaHlqAiAIaL_oEEAksd7PPPOp34rZ4l7flqLWVs20a9h8lV_Ciw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Capadocia - Uçhisar (Turkey) 
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Shibuya (Japan)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604204902/ei/BeWdX4f7PMXb5gTI9ZKgAQ/ip/45.179.72.1/id/itwiZmuY6Ls.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIjy7athLsngVGluPmdvXpm58Opcem3w40lm8Tge5UwrAiBKVt5L2Ezuvx_Gi60BsHu3laJmDE8B3xw6lTtkjm2WfQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_9064179640.jpg" group-title="Live Cams",Dubai
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_8604179714.jpg" group-title="Live Cams",Jerusalen (Muro de Los Lamentos)
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_9924179744.jpg" group-title="Live Cams",Kenia - Tsavo East National Park
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_7084179852.jpg" group-title="Live Cams",Maldivas - Kuredu
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_6594179936.jpg" group-title="Live Cams",Grecia (Miconos - Cícladas)
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_7324180023.jpg" group-title="Live Cams",R. Checa - Praga 
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_11174180052.jpg" group-title="Live Cams",Belgica - Brujas
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
-
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_9974180118.jpg" group-title="Live Cams",Madagascar - Nosy Be
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_11854180179.jpg" group-title="Live Cams",Zanzíbar - Pwani Mchangani
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_12094180258.jpg" group-title="Live Cams",Brazil (Sao Pablo)
-https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Playa Salinas (Asturias - España)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604205052/ei/nOWdX9mKH4S_wgTNu5ugBQ/ip/45.179.72.1/id/vwTEq6nuP48.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK3Vbf3XwPaSo17X4fF0NvxngiQOElV_PztG8vuuwLnYAiARKKqelNnQZIxmi-81dbDu_BO1nWlZsQcgfH3-mFNmtw%3D%3D/file/index.m3u8
