@@ -1842,4 +1842,60 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604189069/ei/L
 #EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Ushuaia 2 (Argentina)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604189273/ei/-aedX8uWKreI-LAPg6eh8AY/ip/45.179.72.1/id/-bixwopo6dg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIge6S35EpoawMfDYYsnJJrnP5W9b9DMT6UHKD2qKOWVhkCIDKgM3Gv47BSoDvhFSk9zIuwRzAk0Di5lUxxldQxqgnG/file/index.m3u8
 
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Obelisco BsAs 2
+https://hddn00.skylinewebcams.com/live.m3u8
 
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams", Roma (Plaza Navona)
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Paris (Torre Eiffel)
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Roma (Coliseo)
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Ciudad de Mexico
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Playa de Tenerife
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_10534179251.jpg" group-title="Live Cams",Ushuaia (Tren del Fin del Mundo)
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_7784179431.jpg" group-title="Live Cams",Ushuaia 3
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Capadocia - Uçhisar (Turkey) 
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_9064179640.jpg" group-title="Live Cams",Dubai
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_8604179714.jpg" group-title="Live Cams",Jerusalen (Muro de Los Lamentos)
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_9924179744.jpg" group-title="Live Cams",Kenia - Tsavo East National Park
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_7084179852.jpg" group-title="Live Cams",Maldivas - Kuredu
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_6594179936.jpg" group-title="Live Cams",Grecia (Miconos - Cícladas)
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_7324180023.jpg" group-title="Live Cams",R. Checa - Praga 
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_11174180052.jpg" group-title="Live Cams",Belgica - Brujas
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_9974180118.jpg" group-title="Live Cams",Madagascar - Nosy Be
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_11854180179.jpg" group-title="Live Cams",Zanzíbar - Pwani Mchangani
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://s.skylinewebcams.com/_12094180258.jpg" group-title="Live Cams",Brazil (Sao Pablo)
+https://hddn00.skylinewebcams.com/live.m3u8?a=9j480llf4t129mpjasso9v1607
