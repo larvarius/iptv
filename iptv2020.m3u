@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Todo_Noticias_2016.png/100px-Todo_Noticias_2016.png" group-title="Argentina1",TN
-https://www.youtube.com/embed/wHn1_QVoXGM
+http://www.youtube.com/embed/wHn1_QVoXGM
 
 #EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/C5NLOGO2017.png/120px-C5NLOGO2017.png" group-title="Argentina1",C5N
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604183872/ei/4JKdX8jYHuO05gTvn5-gDw/ip/45.179.72.1/id/VJ3UQqPYhcc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOrk9TaF6_Ee7h9ViVLMnXzDa20GY_vRG-hhwrwAdW1ICIQDdlfLXyladYZbuEShG66G59r4UVJdG798-KT1y22F_tw%3D%3D/file/index.m3u8
