@@ -26,13 +26,13 @@ http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iLh4q2x.png" group-title="Argentina1",Garage TV (Argentina)
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
  
-#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DeporTV_%282020%29.png/200px-DeporTV_%282020%29.png" group-title="Argentina 1",Depor TV
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DeporTV_%282020%29.png/200px-DeporTV_%282020%29.png" group-title="Argentina1",Depor TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203420/ei/PN-dX9HzKoPSxQTm94CwDQ/ip/45.179.72.1/id/PDWQpbMqpGE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgM6ItYWYXqiiRatEYZydy2tjhpTQ4GKHRP_K3lqI4GfQCIQCEmBx7745NuDwpj0-y_m9UnrnZjf0pp8SxnZh_QYDBLQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="Argentina 1",Encuentro
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="Argentina1",Encuentro
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203583/ei/39-dX8OfEojNwATS6r3oBQ/ip/45.179.72.1/id/pGd_pI9g4F4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF4Dnpf4ZJ98u1GjyTQg175XyNqJFHuRPuHJwFdJiRTgCIHxt2R5fGhP5TUXry2vSRysWKejPPoJggJjvCxksCgpG/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Canal_de_la_Ciudad.png/133px-Logo_Canal_de_la_Ciudad.png" group-title="Argentina 1",Canal de la Ciudad
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Canal_de_la_Ciudad.png/133px-Logo_Canal_de_la_Ciudad.png" group-title="Argentina1",Canal de la Ciudad
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203778/ei/oeCdX4uXOuaI-LAPiMqb2As/ip/45.179.72.1/id/awXmi7K2Agk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMlucTA8ip8EHBpXCuECL_Ujtnb60JnlaA6DGzZqIza9AiBSTytlKQZ6dW5yBKDDuJ-3XE2ujLLK3AL8GJNUPtb3_w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/fgrauI0.png" group-title="Argentina1",Canal 4 Posadas
