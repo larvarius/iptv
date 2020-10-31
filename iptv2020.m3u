@@ -1805,3 +1805,41 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="618" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="WORLD NEWS",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Obelisco BsAs
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604187687/ei/x6GdX8fjD8LGwwSRxZZA/ip/45.179.72.1/id/if91GyWP3zQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTWIm7y4ZJYZkyimYvekSRtKNFkhdiDTxYL7QRHcGORgCIQCno1XqU6ZIRoTVeyImu2iPBa9LPKpVp2hnGh-A2DGTqw%3D%3D/file/index.m3u8
+
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Venezia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604187829/ei/VaKdX9DgCcWTwQSGwIGwAw/ip/45.179.72.1/id/HpZAez2oYsA.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgW1Y9pZ4qjq1okimdl25qHESLYOHu8cOrdD6XpftfBpwCIQCY5hxMkIceqJCdCq8lygV4V9Zs1dmsPFHGlthYcVkOAw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",NASA Space
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604187921/ei/saKdX_KnM5G6wgSzz4nQBg/ip/45.179.72.1/id/mg7FweYjasE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJgDjaJSIwmEBFwa-zV6G-iMHJ_hsIsCiNuw5UBsof_KAiEAmkDavCpWN4BedffngJQIMevGWe5gAeThu8aFTxSL75k%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Tokio
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188012/ei/C6OdX-zLN87JwATupb6wBA/ip/45.179.72.1/id/RQA5RcIZlAM.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVqa64J8fuN5z6ilILI_RIEZtAjwYOL8UKIfjdaxzxFQCIClQ553lnYaSEQWou_VEhn0f0fxNoPP_BMV0LKvjavct/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Taiwan (Daxi Old Street)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188102/ei/ZqOdX62MKLyD-LAP-o--wAE/ip/45.179.72.1/id/z_mlibCfgFI.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOi6sik79EOBCbZZHg8hU8AIWdida6CRp14_kWBYMp4sAiAun7gWfByuD71VxCrKv-UrDsAz03tgs2fdxYWkgnjXpg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Time Square (NY)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188227/ei/46OdX7PVFY_gwgSX0KO4Bw/ip/45.179.72.1/id/3XTw2FmCUdE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALZQBgquCH6NvsExYK_1q_TjMQNqlh2TwdVW2lyUrLexAiAzRHGvcr-NTOzrqF8IKQFDw3-hHmVOJQYbqCGoKyCiJQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",NYC Brooklyn Bridge
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188355/ei/Y6SdX-vvH4TdwgTKx6_QCw/ip/45.179.72.1/id/KGuCGd726RA.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbUOytaBBvAPZDK3umaXHirPikb7k4k7HD2cY8e4qbycCIQCIgu5sYeoMMH-cyByE2hkEgQAe1VDGBW4kaX0mywDpZw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Ushuaia (argentina)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188484/ei/5KSdX9nBI6mCobIPz9mK4A0/ip/45.179.72.1/id/ahBo6i1TedQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALbITJMkEqLCG-C9kTFczIROSbrU1axSL0Rdb4M3eDhTAiEA8BsMPwpz1qP8EGYWKgJF4mIQ-t1trfSPLFVNRJxubkI%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Skarsvåg (North Cape in Norway)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188657/ei/kaWdX4GJOIn1wgSviKegAw/ip/45.179.72.1/id/c4kpeZHcke8.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJrRVRUq0BNUrQotz_FGRrpFR9PhPvs55FCRuHkfqPGYCIQCTbAHqxagMgVFTaaX-EtljdeZ85YhlPJ5TvdwAkHC3ew%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Amsterdam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188983/ei/1qadX532OPaw5gSU6JDoDQ/ip/45.179.72.1/id/KGEekP1102g.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANY3Jmt_JPCpG6eoIFtbA0ax-0Xb0qfDH8ZXIG1RGE1GAiBL0J3Ancc08GIQMnfGTLkNRtytDqSBanLCuXe5ozfLyA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Helsinki
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604189069/ei/LaedX7W9IpuC-LAPm9WEiAY/ip/45.179.72.1/id/CvOB-Is_yYU.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMGp6wJPxwVZ0RfqU5MXfpw42LMvvrI2BP2OU8F7CdOACIQDKxwA_KvjRTMxKVBL2oyut6fWRdM8b2Y157D0-Q1fZlw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Ushuaia 2 (Argentina)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604189273/ei/-aedX8uWKreI-LAPg6eh8AY/ip/45.179.72.1/id/-bixwopo6dg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIge6S35EpoawMfDYYsnJJrnP5W9b9DMT6UHKD2qKOWVhkCIDKgM3Gv47BSoDvhFSk9zIuwRzAk0Di5lUxxldQxqgnG/file/index.m3u8
+
+
