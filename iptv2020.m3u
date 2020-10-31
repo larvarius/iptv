@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Todo_Noticias_2016.png/100px-Todo_Noticias_2016.png" group-title="Argentina1",TN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604183300/ei/pJCdX-PQLsGnxATh8ocQ/ip/45.179.72.1/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANTPym4Yc2HKoClc3FYwkAlZ3BbUCXEO4jE6gZCNW__8AiByCUg9M8rTmYc0KcgMMIdeZ0SaZ9V7TviUlpY6dPxq9Q%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Argentina1",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 
