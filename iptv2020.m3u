@@ -51,9 +51,6 @@ http://158.69.116.209:25461/live/230671617a4043e6bf8b96bfba60cb28/49ce0c0ac22142
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Comedy
 http://158.69.116.209:25461/live/4e859db4978444c18a7551996382632e/0d27208d89bc4583b9a5a96178dbe56c/31.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz
-http://158.69.116.209:25461/live/37606471b4ac4673991e355d96d451b2/42fca3e546fb4a3a80f460d9ed0a23a3/40.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz E
 http://158.69.116.209:25461/live/2e2e412ed3b347daa8b09fa78c18c325/2db71ba0218d4753b53cee6f6f1159e1/32.m3u8
 
@@ -64,7 +61,7 @@ http://158.69.116.209:25461/live/09869b052e1c482f8dbc7569fe124f44/76576255700e4a
 http://158.69.116.209:25461/live/f3c0499ced5e45b88b341cbac243d7a7/048937d6f5494fc2b68efd98021b52d0/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Action
-http://145.239.0.5:32325/live/7b73015da8cd46fea90525ff13fbd556/3b8c9b7fd4734e73afb1cd0a8f5a7e78/47.m3u8
+http://51.178.65.221:32325/live/1a53ab456fda491f8154738ab43e90a8/28d89735668742bd9923cf6b5a634b0a/504.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Movies
 http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/23.m3u8
