@@ -1,5 +1,78 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cine Max E
+http://158.69.116.209:25461/live/90408a772ab64c7e96d0c7fdc6b25cf6/57e68b1ddd984e6da46ce2678455573e/5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cinemax
+http://158.69.116.209:25461/live/0b7172f9765146fd95d0eff0fb9b4add/0e28009a9972498a9a9bfd5029e45142/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AXN
+http://dominiopersonal.xyz:25464/playerone/0CPWSOBBvV/6
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO
+http://158.69.116.209:25461/live/5e3237ee8d204abf9022aaf4821f819d/5c56fa8288154700916c9a8ce543aed9/9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO 2
+http://158.69.116.209:25461/live/90408a772ab64c7e96d0c7fdc6b25cf6/57e68b1ddd984e6da46ce2678455573e/5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Family
+http://158.69.116.209:25461/live/a1e760d0be554c14822e1562e7304dc4/7164d414b75d4e9a8b24d60a22c59788/8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Plus E
+http://158.69.116.209:25461/live/52b33c6bee9f4ff6b4b1ddcc0c008a85/2ecac9e60c5640538021b730a8f4276b/10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Plus O
+http://158.69.116.209:25461/live/4297c0a5ab3a40aea003c652edd979c5/f8315bdcd0904b6890bf922d162343c5/11.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movie Plex
+http://158.69.116.209:25461/live/45f705b744c34d1e99b0f340c660ffb9/cefebbbc94f84459a9f0bed055f2f3b7/18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movie Max
+http://158.69.116.209:25461/live/5ad8b2964ff14c45a6263480453ad874/64957146a9b04f2a98a9d407b3ce4914/17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",More Max
+http://158.69.116.209:25461/live/c0b528ff77864bf1ab80cef4566fb811/db227f7fe4394367a813425c6bc0f552/16.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Other Max
+http://158.69.116.209:25461/live/89b4af930cba4e64997852446cba1fd7/7611394d3bb94d93a6eb8aa9a43c6f25/19.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Retro Max
+http://158.69.116.209:25461/live/73a29acad261421fa044026ed100bd78/dbb32314bd2f4f35b06aeb6f87d2dc92/20.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Showtime
+http://158.69.116.209:25461/live/a553ad5bb723412f96587b95466f2983/64b963f9a0b4478ba5a51fda5196bd84/21.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Showtime Beyond HD
+http://158.69.116.209:25461/live/4b47276614d3478ebd12a71054692156/39b596b29941488d9a2f9388f4804401/22.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Black
+http://158.69.116.209:25461/live/ad3cbf9c5bda4a608eca5e47f93f6883/e3891bac352843119aa68be7762291a9/28.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Action
+http://158.69.116.209:25461/live/230671617a4043e6bf8b96bfba60cb28/49ce0c0ac2214275a0cca7106f7b0529/33.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Comedy
+http://158.69.116.209:25461/live/4e859db4978444c18a7551996382632e/0d27208d89bc4583b9a5a96178dbe56c/31.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Classics
+http://158.69.116.209:25461/live/c6415cff530c4b5cba9c3a39d7be1f96/030fc832f92f448aba441e9b9bd2ef1b/35.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz
+http://158.69.116.209:25461/live/37606471b4ac4673991e355d96d451b2/42fca3e546fb4a3a80f460d9ed0a23a3/40.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT Sports
+http://145.239.2.125:32325/live/4fd4f3f730c248eca26609a67bb45a9c/a2eff88346d5472c80d834d23534b04a/14.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports Premium
+http://145.239.2.125:32325/live/1722037f16c848858e2ac0773acb0f98/061c52f487ea45abba0e7f0d066ee618/15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TyC Spots HD
+http://145.239.2.125:32325/live/5711733193ba42f9911184223acfc5f8/3c6b0343eeb14c02a586083dcebc76ad/7.m3u8
+
+
+
 #EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Televisi%C3%B3n_P%C3%BAblica_%282020%29.png/200px-Televisi%C3%B3n_P%C3%BAblica_%282020%29.png" group-title="Argentina1",TV Publica
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604184091/ei/u5OdX5n8DMSRwAT8lpiYAw/ip/45.179.72.1/id/N6IBobMnfPw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFX6WalgUymM4zisivrEjsy7OZI7-dgMGXYUSz30HG_sCIBWpXOYJ66-b4wNYGGpOeCp9I0n9IXZPnBwAiBkf6BtF/file/index.m3u8
 
@@ -18,13 +91,13 @@ http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iLh4q2x.png" group-title="Argentina1",Garage TV (Argentina)
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
  
-#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DeporTV_%282020%29.png/200px-DeporTV_%282020%29.png" group-title="Argentina1",Depor TV
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DeporTV_%282020%29.png/200px-DeporTV_%282020%29.png" group-title="Argentina 1",Depor TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203420/ei/PN-dX9HzKoPSxQTm94CwDQ/ip/45.179.72.1/id/PDWQpbMqpGE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgM6ItYWYXqiiRatEYZydy2tjhpTQ4GKHRP_K3lqI4GfQCIQCEmBx7745NuDwpj0-y_m9UnrnZjf0pp8SxnZh_QYDBLQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="Argentina1",Encuentro
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="Argentina 1",Encuentro
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203583/ei/39-dX8OfEojNwATS6r3oBQ/ip/45.179.72.1/id/pGd_pI9g4F4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF4Dnpf4ZJ98u1GjyTQg175XyNqJFHuRPuHJwFdJiRTgCIHxt2R5fGhP5TUXry2vSRysWKejPPoJggJjvCxksCgpG/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Canal_de_la_Ciudad.png/133px-Logo_Canal_de_la_Ciudad.png" group-title="Argentina1",Canal de la Ciudad
+#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Canal_de_la_Ciudad.png/133px-Logo_Canal_de_la_Ciudad.png" group-title="Argentina 1",Canal de la Ciudad
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203778/ei/oeCdX4uXOuaI-LAPiMqb2As/ip/45.179.72.1/id/awXmi7K2Agk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMlucTA8ip8EHBpXCuECL_Ujtnb60JnlaA6DGzZqIza9AiBSTytlKQZ6dW5yBKDDuJ-3XE2ujLLK3AL8GJNUPtb3_w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/fgrauI0.png" group-title="Argentina1",Canal 4 Posadas
@@ -1844,9 +1917,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604189069/ei/L
 #EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Ushuaia 2 (Argentina)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604189273/ei/-aedX8uWKreI-LAPg6eh8AY/ip/45.179.72.1/id/-bixwopo6dg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIge6S35EpoawMfDYYsnJJrnP5W9b9DMT6UHKD2qKOWVhkCIDKgM3Gv47BSoDvhFSk9zIuwRzAk0Di5lUxxldQxqgnG/file/index.m3u8
 
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Obelisco BsAs 2
-https://hddn00.skylinewebcams.com/live.m3u8
-
 #EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams", Guadalajara (Mexico)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604202489/ei/mdudX7WqA8f6wgT59L_ADg/ip/45.179.72.1/id/a-eACZgkzjk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKb4p4x0H70_xPeooKHbcq2WjONn80FKSaneKoPyHw_oCIEGNM3fWC_bcQlsy_ueX6b8W4FWM_FrMdtogs5DThaEO/file/index.m3u8
 
@@ -1873,3 +1943,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604204902/ei/B
 
 #EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Playa Salinas (Asturias - España)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604205052/ei/nOWdX9mKH4S_wgTNu5ugBQ/ip/45.179.72.1/id/vwTEq6nuP48.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK3Vbf3XwPaSo17X4fF0NvxngiQOElV_PztG8vuuwLnYAiARKKqelNnQZIxmi-81dbDu_BO1nWlZsQcgfH3-mFNmtw%3D%3D/file/index.m3u8
+
+
+
