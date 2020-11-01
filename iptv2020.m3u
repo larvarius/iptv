@@ -6,9 +6,6 @@ http://158.69.116.209:25461/live/90408a772ab64c7e96d0c7fdc6b25cf6/57e68b1ddd984e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cinemax
 http://158.69.116.209:25461/live/0b7172f9765146fd95d0eff0fb9b4add/0e28009a9972498a9a9bfd5029e45142/4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AXN
-http://dominiopersonal.xyz:25464/playerone/0CPWSOBBvV/6
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO
 http://158.69.116.209:25461/live/5e3237ee8d204abf9022aaf4821f819d/5c56fa8288154700916c9a8ce543aed9/9.m3u8
 
@@ -24,11 +21,17 @@ http://158.69.116.209:25461/live/52b33c6bee9f4ff6b4b1ddcc0c008a85/2ecac9e60c5640
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Plus O
 http://158.69.116.209:25461/live/4297c0a5ab3a40aea003c652edd979c5/f8315bdcd0904b6890bf922d162343c5/11.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movie Plex
-http://158.69.116.209:25461/live/45f705b744c34d1e99b0f340c660ffb9/cefebbbc94f84459a9f0bed055f2f3b7/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Zone
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/40.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movie Max
-http://158.69.116.209:25461/live/5ad8b2964ff14c45a6263480453ad874/64957146a9b04f2a98a9d407b3ce4914/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Mundi
+http://51.178.65.221:32325/live/9e7b00ef3be644bb9fe42c3e67a083ae/fee806ee918e4bbeb96a664aaec9cb51/518.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Pop
+http://51.178.65.221:32325/live/383567f5806f4e5691720c65042dd891/936d810414a0474fb63b93dd8c2f2d15/519.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Xtrem
+http://51.178.65.221:32325/live/051e4b9357f04e31a3cd91091a03baaf/355e98670d6b4a2c89afed5f4145be66/517.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",More Max
 http://158.69.116.209:25461/live/c0b528ff77864bf1ab80cef4566fb811/db227f7fe4394367a813425c6bc0f552/16.m3u8
@@ -42,24 +45,45 @@ http://158.69.116.209:25461/live/73a29acad261421fa044026ed100bd78/dbb32314bd2f4f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Showtime
 http://158.69.116.209:25461/live/a553ad5bb723412f96587b95466f2983/64b963f9a0b4478ba5a51fda5196bd84/21.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Showtime Beyond HD
-http://158.69.116.209:25461/live/4b47276614d3478ebd12a71054692156/39b596b29941488d9a2f9388f4804401/22.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Black
-http://158.69.116.209:25461/live/ad3cbf9c5bda4a608eca5e47f93f6883/e3891bac352843119aa68be7762291a9/28.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Action
 http://158.69.116.209:25461/live/230671617a4043e6bf8b96bfba60cb28/49ce0c0ac2214275a0cca7106f7b0529/33.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Comedy
 http://158.69.116.209:25461/live/4e859db4978444c18a7551996382632e/0d27208d89bc4583b9a5a96178dbe56c/31.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Classics
-http://158.69.116.209:25461/live/c6415cff530c4b5cba9c3a39d7be1f96/030fc832f92f448aba441e9b9bd2ef1b/35.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz
 http://158.69.116.209:25461/live/37606471b4ac4673991e355d96d451b2/42fca3e546fb4a3a80f460d9ed0a23a3/40.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz E
+http://158.69.116.209:25461/live/2e2e412ed3b347daa8b09fa78c18c325/2db71ba0218d4753b53cee6f6f1159e1/32.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Black
+http://158.69.116.209:25461/live/09869b052e1c482f8dbc7569fe124f44/76576255700e4a3c8f5851a17ad24efb/34.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cartelera Premier
+http://158.69.116.209:25461/live/f3c0499ced5e45b88b341cbac243d7a7/048937d6f5494fc2b68efd98021b52d0/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Action
+http://145.239.0.5:32325/live/7b73015da8cd46fea90525ff13fbd556/3b8c9b7fd4734e73afb1cd0a8f5a7e78/47.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/23.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Comedy
+http://51.178.65.221:32325/live/2d78614dafa6440e8a5ae05021cb9924/5de76cc26b21415d8fa2e0feb046a5b5/508.m3u8
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/48.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Family
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/47.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Series
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/19.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cine Canal
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AMD
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/8.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT Sports
@@ -72,15 +96,14 @@ http://145.239.2.125:32325/live/1722037f16c848858e2ac0773acb0f98/061c52f487ea45a
 http://145.239.2.125:32325/live/5711733193ba42f9911184223acfc5f8/3c6b0343eeb14c02a586083dcebc76ad/7.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina1",TN
+http://145.239.0.5:32325/live/e6908402c28e40aeaeebb1ef2ba4320e/031f2ce564114dc88fff63a960fdc777/133.m3u8
 
-#EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Televisi%C3%B3n_P%C3%BAblica_%282020%29.png/200px-Televisi%C3%B3n_P%C3%BAblica_%282020%29.png" group-title="Argentina1",TV Publica
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604184091/ei/u5OdX5n8DMSRwAT8lpiYAw/ip/45.179.72.1/id/N6IBobMnfPw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFX6WalgUymM4zisivrEjsy7OZI7-dgMGXYUSz30HG_sCIBWpXOYJ66-b4wNYGGpOeCp9I0n9IXZPnBwAiBkf6BtF/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina1",El Trece
+http://145.239.0.5:32325/live/7b73015da8cd46fea90525ff13fbd556/3b8c9b7fd4734e73afb1cd0a8f5a7e78/47.m3u8
 
-#EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/150px-LN%2B.png" group-title="Argentina1",LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604186873/ei/mZ6dX_L3FIurwQSR64nwCw/ip/45.179.72.1/id/_MEkwa0FTvg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgR8Qb_IE8b88eLPMTeakfn0fif5hlS5sZ6TA-cOknaT4CIAN7ohahAEDcb7vQpHXN4gbyeJjrCnpeTLK2jBwUeBRY/file/index.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/200px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Argentina1",Cronica
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604184561/ei/kZWdX8P-KM-BobIPhraA8A8/ip/45.179.72.1/id/ZGhuX7lopGM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPt0xHwnXmu6m86rLhFQMQrK-ylRi_Ej2Me_3jwEYueYAiAocJ8sa3ufkaV05cRv71-qw5JhscTuZpz2lLIyXQKeDQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina1",Telefe
+http://145.239.0.5:32325/live/8f91a5cd16c04e828a17f733f6d80ebf/ced64d9547324c2da8281ac1564086e8/48.m3u8
 
 #EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Argentina1",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
@@ -229,25 +252,6 @@ http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="Argentina2",Télam 4
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.pinimg.com/originals/20/e3/33/20e333c9aa4b82bfc9c67c58a321bde7.jpg" group-title="Relax",LoFi Youtube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604185587/ei/k5mdX8rTGv6AobIPwbqIqAY/ip/45.179.72.1/id/5qap5aO4i9A.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJciNxBlI3BPoOFXrPfKp8sD4TlxBPkki9gGP_BlHAeNAiAWQ9ZsZqSs00Tdx7L-e2S9Oku9O3bWMmImBDQBAbFJzQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-logo="https://direct.rhapsody.com/imageserver/images/alb.331485524/500x500.jpg" group-title="Relax",Rain Relax Youtube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604185877/ei/tZqdX5_VEM36wAS916a4AQ/ip/45.179.72.1/id/rdcxvZg_vqQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEuAtadJK5lh2WnVTqgryfNGAeD4cxpPfOwUyGEi5uroCIB7Tt_yHGdGZ7RmIwKqnDaH6S3ZLo6RH47tuzuA8LGMg/file/index.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-logo="https://image.freepik.com/free-vector/abstract-colorful-meditation-yoga-logo_23758-164.jpg" group-title="Relax",Meditation Youtube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604186088/ei/iJudX4K4IoKAwQTiwr6wDA/ip/45.179.72.1/id/s1R8Iygyg4E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXCk9b5wsH_oZ6JBN1fUSPdazd5i_nDfVOsEjmy9jllICIQDBBa9fX68IEX8brRSLZF5RhzUHX5bZaQnaO9dPZruruQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.pinimg.com/564x/4b/e9/61/4be9618b0ddb478ec2bf08cc10a45a4e.jpg" group-title="Relax",Sleep Youtube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604186254/ei/LpydX9SdKNLI5gTem63YCQ/ip/45.179.72.1/id/m0M5CNDKLKc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIj1zZx2uL3T2Q7KXugoUvuoz46gKyJp4qX8ODx_U-x6AiEA0JJQWnOy5v0F3SmWqBal4oMP8GyEtXDo56XXLlC3V7k%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aum.svg/100px-Aum.svg.png" group-title="Relax",Nature 4K
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604184774/ei/ZpadX4joNYPA8wLwjqKgAw/ip/45.179.72.1/id/P7d1H83IcjE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSOA4RWsoOVKBY99JEHzXW6QAMe_5-Va-uE6SGf6fryUCIQCV2OExC8XZp6FV0IUhuzOnPAM3NCDVFgp9Ke6MoWYyaQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aum.svg/100px-Aum.svg.png" group-title="Relax",Relaxig & Nature
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604184999/ei/R5edX7KIIpmB-LAP-qmC8AE/ip/45.179.72.1/id/hZSPmqAddzs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKWUakY6ccHSCOirCyQEz9Qd4JdQW1Mp0Ve4i5YzeboKAiAqJ-637v_Mg43s9dRDWGOjyq5__tRjJsMN_lEDLjr2Tg%3D%3D/file/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="50" tvg-logo="http://1.bp.blogspot.com/-vMAQNoRpfA8/UelW10uDRvI/AAAAAAAAJhs/LcAP-VsO8YY/s1600/Logo_TVE_24h.jpg" group-title="España1",24 Horas
@@ -524,6 +528,22 @@ https://musigal-crtvg.flumotion.com/playlist.m3u8
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w83wr1S.png" tvg-country="ES" tvg-url="" group-title="España2",Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Dance
+http://145.239.2.125:32325/live/2ba905a6cb5544e886b41e7d24b6f00b/2f3bb8f3356648bebf5cd2665d685324/56.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Hit List
+http://145.239.2.125:32325/live/cba9a9337ab54eb7bb53465afcecfe60/9b2d3f50c2d44ecd909745a3344347a1/58.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Urbana
+http://145.239.2.125:32325/live/5793444c0a3049e1a0a807c6d16049b3/4391c8e2b09949e89b71bf2fd637a0d6/62.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Pop Hits
+http://145.239.2.125:32325/live/8ed02aeb39fb400cbe9029f6b31989f9/2c471a926f714d4eb2c668ee5009963a/64.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Pop Latino
+http://145.239.2.125:32325/live/253b6173ce034ebcb272a0a1f94a0c33/dce43de5d2f745fcbc6888d8fd37dcf2/65.m3u8
 
 #EXTINF:-1 tvg-logo="https://ibizaglobal.tv/wp-content/uploads/2017/03/LOGO-GLOBALTV.png" group-title="MUSICA",Ibiza Global TV (España)
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
@@ -1879,70 +1899,3 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="618" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="WORLD NEWS",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Obelisco BsAs
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604187687/ei/x6GdX8fjD8LGwwSRxZZA/ip/45.179.72.1/id/if91GyWP3zQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTWIm7y4ZJYZkyimYvekSRtKNFkhdiDTxYL7QRHcGORgCIQCno1XqU6ZIRoTVeyImu2iPBa9LPKpVp2hnGh-A2DGTqw%3D%3D/file/index.m3u8
-
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Venezia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604187829/ei/VaKdX9DgCcWTwQSGwIGwAw/ip/45.179.72.1/id/HpZAez2oYsA.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgW1Y9pZ4qjq1okimdl25qHESLYOHu8cOrdD6XpftfBpwCIQCY5hxMkIceqJCdCq8lygV4V9Zs1dmsPFHGlthYcVkOAw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",NASA Space
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604187921/ei/saKdX_KnM5G6wgSzz4nQBg/ip/45.179.72.1/id/mg7FweYjasE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJgDjaJSIwmEBFwa-zV6G-iMHJ_hsIsCiNuw5UBsof_KAiEAmkDavCpWN4BedffngJQIMevGWe5gAeThu8aFTxSL75k%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Tokio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188012/ei/C6OdX-zLN87JwATupb6wBA/ip/45.179.72.1/id/RQA5RcIZlAM.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVqa64J8fuN5z6ilILI_RIEZtAjwYOL8UKIfjdaxzxFQCIClQ553lnYaSEQWou_VEhn0f0fxNoPP_BMV0LKvjavct/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Taiwan (Daxi Old Street)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188102/ei/ZqOdX62MKLyD-LAP-o--wAE/ip/45.179.72.1/id/z_mlibCfgFI.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOi6sik79EOBCbZZHg8hU8AIWdida6CRp14_kWBYMp4sAiAun7gWfByuD71VxCrKv-UrDsAz03tgs2fdxYWkgnjXpg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Time Square (NY)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188227/ei/46OdX7PVFY_gwgSX0KO4Bw/ip/45.179.72.1/id/3XTw2FmCUdE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALZQBgquCH6NvsExYK_1q_TjMQNqlh2TwdVW2lyUrLexAiAzRHGvcr-NTOzrqF8IKQFDw3-hHmVOJQYbqCGoKyCiJQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",NYC Brooklyn Bridge
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188355/ei/Y6SdX-vvH4TdwgTKx6_QCw/ip/45.179.72.1/id/KGuCGd726RA.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbUOytaBBvAPZDK3umaXHirPikb7k4k7HD2cY8e4qbycCIQCIgu5sYeoMMH-cyByE2hkEgQAe1VDGBW4kaX0mywDpZw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Ushuaia (argentina)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188484/ei/5KSdX9nBI6mCobIPz9mK4A0/ip/45.179.72.1/id/ahBo6i1TedQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALbITJMkEqLCG-C9kTFczIROSbrU1axSL0Rdb4M3eDhTAiEA8BsMPwpz1qP8EGYWKgJF4mIQ-t1trfSPLFVNRJxubkI%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Skarsvåg (North Cape in Norway)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188657/ei/kaWdX4GJOIn1wgSviKegAw/ip/45.179.72.1/id/c4kpeZHcke8.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJrRVRUq0BNUrQotz_FGRrpFR9PhPvs55FCRuHkfqPGYCIQCTbAHqxagMgVFTaaX-EtljdeZ85YhlPJ5TvdwAkHC3ew%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Amsterdam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604188983/ei/1qadX532OPaw5gSU6JDoDQ/ip/45.179.72.1/id/KGEekP1102g.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANY3Jmt_JPCpG6eoIFtbA0ax-0Xb0qfDH8ZXIG1RGE1GAiBL0J3Ancc08GIQMnfGTLkNRtytDqSBanLCuXe5ozfLyA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Helsinki
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604189069/ei/LaedX7W9IpuC-LAPm9WEiAY/ip/45.179.72.1/id/CvOB-Is_yYU.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMGp6wJPxwVZ0RfqU5MXfpw42LMvvrI2BP2OU8F7CdOACIQDKxwA_KvjRTMxKVBL2oyut6fWRdM8b2Y157D0-Q1fZlw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Ushuaia 2 (Argentina)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604189273/ei/-aedX8uWKreI-LAPg6eh8AY/ip/45.179.72.1/id/-bixwopo6dg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIge6S35EpoawMfDYYsnJJrnP5W9b9DMT6UHKD2qKOWVhkCIDKgM3Gv47BSoDvhFSk9zIuwRzAk0Di5lUxxldQxqgnG/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams", Guadalajara (Mexico)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604202489/ei/mdudX7WqA8f6wgT59L_ADg/ip/45.179.72.1/id/a-eACZgkzjk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKb4p4x0H70_xPeooKHbcq2WjONn80FKSaneKoPyHw_oCIEGNM3fWC_bcQlsy_ueX6b8W4FWM_FrMdtogs5DThaEO/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",London
-https://hddn00.https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604202629/ei/JdydX9Mdi__ABJCXuKgM/ip/45.179.72.1/id/NH-O4gTnsqs.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLNzOdTH0yP0oiVaNOsBWZd8CM_QZ-046KS5_Co_R_q8CIGKH-Tx6EspSWJ3jYGwbDYxcKB6n8hVfr8WgTeMfROW2/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Bodøterminalen (Norway)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604202715/ei/e9ydX4uYJJnqxgT0ppqAAg/ip/45.179.72.1/id/5BHJBR3_dv8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANF3w_UFMbkYxGps_GZLfBpf0vhHKo7oUGIGfvQftdS5AiB_7OuxVo3FR5y76AxxWx_s0a4Ps38r3ES_HRJe8Y6ilw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Italia - Norcia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604202952/ei/aN2dX6vRNNPYwgSlwrbgDg/ip/45.179.72.1/id/C78daVqDpB8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgW24gge-x8C5619cndSgHuXt1NTD47jhLtv6PglG9geYCIQDx4a2xRiFZdmf0_Gm7e_DSGpFxAmC12_4KhkZogPlOoA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Alaska
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203222/ei/dt6dX6-tIM64xwTR0Z6QBw/ip/45.179.72.1/id/RtreWYd0EQo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANo6ZWEgOjS26CYyb_mu79WpMLJkCpdxfKUpbdyQyX7dAiA2nksO8zntneKrZItbzT-OcPUyBJ-eyWiYwFv7U2pWGg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Oxford
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604204534/ei/luOdX8mPFdPYwgSrkYbgAQ/ip/45.179.72.1/id/St7aTfoIdYQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPbyPd0tqMmYJuS6TSJFpVe3OKrt4ehOt7SRvEmoldqrAiBH4jzBoIlr7obgLtZXi8FEG26eEqQYoIssf7usw-Ozpg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Santa Monica Beach (USA)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604204628/ei/9OOdX_ivNoONwwTatKyIAQ/ip/45.179.72.1/id/OWbI6WtlI-k.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP7x95q1nN0kR41BXRsMSvkjFsH7oV8mpNArrVOEaHlqAiAIaL_oEEAksd7PPPOp34rZ4l7flqLWVs20a9h8lV_Ciw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Shibuya (Japan)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604204902/ei/BeWdX4f7PMXb5gTI9ZKgAQ/ip/45.179.72.1/id/itwiZmuY6Ls.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIjy7athLsngVGluPmdvXpm58Opcem3w40lm8Tge5UwrAiBKVt5L2Ezuvx_Gi60BsHu3laJmDE8B3xw6lTtkjm2WfQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="" group-title="Live Cams",Playa Salinas (Asturias - España)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604205052/ei/nOWdX9mKH4S_wgTNu5ugBQ/ip/45.179.72.1/id/vwTEq6nuP48.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK3Vbf3XwPaSo17X4fF0NvxngiQOElV_PztG8vuuwLnYAiARKKqelNnQZIxmi-81dbDu_BO1nWlZsQcgfH3-mFNmtw%3D%3D/file/index.m3u8
-
-
-
