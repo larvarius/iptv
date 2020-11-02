@@ -1,103 +1,145 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cine Max E
-http://158.69.116.209:25461/live/90408a772ab64c7e96d0c7fdc6b25cf6/57e68b1ddd984e6da46ce2678455573e/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TNT
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cinemax
-http://158.69.116.209:25461/live/0b7172f9765146fd95d0eff0fb9b4add/0e28009a9972498a9a9bfd5029e45142/4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO
-http://158.69.116.209:25461/live/5e3237ee8d204abf9022aaf4821f819d/5c56fa8288154700916c9a8ce543aed9/9.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO 2
-http://158.69.116.209:25461/live/90408a772ab64c7e96d0c7fdc6b25cf6/57e68b1ddd984e6da46ce2678455573e/5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Family
-http://158.69.116.209:25461/live/a1e760d0be554c14822e1562e7304dc4/7164d414b75d4e9a8b24d60a22c59788/8.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Plus E
-http://158.69.116.209:25461/live/52b33c6bee9f4ff6b4b1ddcc0c008a85/2ecac9e60c5640538021b730a8f4276b/10.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Plus O
-http://158.69.116.209:25461/live/4297c0a5ab3a40aea003c652edd979c5/f8315bdcd0904b6890bf922d162343c5/11.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Zone
-http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/40.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Mundi
-http://51.178.65.221:32325/live/9e7b00ef3be644bb9fe42c3e67a083ae/fee806ee918e4bbeb96a664aaec9cb51/518.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Pop
-http://51.178.65.221:32325/live/383567f5806f4e5691720c65042dd891/936d810414a0474fb63b93dd8c2f2d15/519.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Xtrem
-http://51.178.65.221:32325/live/051e4b9357f04e31a3cd91091a03baaf/355e98670d6b4a2c89afed5f4145be66/517.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",More Max
-http://158.69.116.209:25461/live/c0b528ff77864bf1ab80cef4566fb811/db227f7fe4394367a813425c6bc0f552/16.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Other Max
-http://158.69.116.209:25461/live/89b4af930cba4e64997852446cba1fd7/7611394d3bb94d93a6eb8aa9a43c6f25/19.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Retro Max
-http://158.69.116.209:25461/live/73a29acad261421fa044026ed100bd78/dbb32314bd2f4f35b06aeb6f87d2dc92/20.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Showtime
-http://158.69.116.209:25461/live/a553ad5bb723412f96587b95466f2983/64b963f9a0b4478ba5a51fda5196bd84/21.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Action
-http://158.69.116.209:25461/live/230671617a4043e6bf8b96bfba60cb28/49ce0c0ac2214275a0cca7106f7b0529/33.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Comedy
-http://158.69.116.209:25461/live/4e859db4978444c18a7551996382632e/0d27208d89bc4583b9a5a96178dbe56c/31.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz E
-http://158.69.116.209:25461/live/2e2e412ed3b347daa8b09fa78c18c325/2db71ba0218d4753b53cee6f6f1159e1/32.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cartelera Premier
-http://158.69.116.209:25461/live/f3c0499ced5e45b88b341cbac243d7a7/048937d6f5494fc2b68efd98021b52d0/2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Action
-http://51.178.65.221:32325/live/1a53ab456fda491f8154738ab43e90a8/28d89735668742bd9923cf6b5a634b0a/504.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Movies
-http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/23.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Comedy
-http://51.178.65.221:32325/live/2d78614dafa6440e8a5ae05021cb9924/5de76cc26b21415d8fa2e0feb046a5b5/508.m3u8
-http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/48.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Family
-http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/47.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Series
-http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",MC
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cine Canal
 http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AMD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Cinemax
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Space
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",FXM
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AMC
 http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/8.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",DHE
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT Sports
-http://145.239.2.125:32325/live/4fd4f3f730c248eca26609a67bb45a9c/a2eff88346d5472c80d834d23534b04a/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TCM
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports Premium
-http://145.239.2.125:32325/live/1722037f16c848858e2ac0773acb0f98/061c52f487ea45abba0e7f0d066ee618/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Golden
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/11.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TyC Spots HD
-http://145.239.2.125:32325/live/5711733193ba42f9911184223acfc5f8/3c6b0343eeb14c02a586083dcebc76ad/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Golden Plus
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/12.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Golden Premier
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/13.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina1",TN
-http://145.239.0.5:32325/live/e6908402c28e40aeaeebb1ef2ba4320e/031f2ce564114dc88fff63a960fdc777/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movistar Drama
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/15.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina1",El Trece
-http://145.239.0.5:32325/live/7b73015da8cd46fea90525ff13fbd556/3b8c9b7fd4734e73afb1cd0a8f5a7e78/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movistar Accion
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/16.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina1",Telefe
-http://145.239.0.5:32325/live/8f91a5cd16c04e828a17f733f6d80ebf/ced64d9547324c2da8281ac1564086e8/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Cinema
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Series
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/19.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Action
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/22.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/23.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Classics
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Classics
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Sub
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/25.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Family
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/28.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Family
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/28.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/34.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Signature
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/35.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/36.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/38.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/38.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/39.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Plus O
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/39.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/40.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",HBO Mundi
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/42.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/45.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/45.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Series HD
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/46.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Comedy HD
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/48.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Fox Movies HD
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/50.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/51.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/52.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/53.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",TNT HD
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/60.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/54.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Movies
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/54.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Starz Comedy
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/55.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Paramaunt HD
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/57.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Space HD
+http://209.126.105.238:25461/live/cP62iWqzH4/M9nwj6arx1/58.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Showtime
+http://158.69.116.209:25461/live/nT0Br8yE0Z/2KhzRN5q6Y/27.m3u8
 
 #EXTINF:-1 tvg-id="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Argentina1",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
@@ -108,15 +150,6 @@ http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iLh4q2x.png" group-title="Argentina1",Garage TV (Argentina)
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
  
-#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DeporTV_%282020%29.png/200px-DeporTV_%282020%29.png" group-title="Argentina 1",Depor TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203420/ei/PN-dX9HzKoPSxQTm94CwDQ/ip/45.179.72.1/id/PDWQpbMqpGE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgM6ItYWYXqiiRatEYZydy2tjhpTQ4GKHRP_K3lqI4GfQCIQCEmBx7745NuDwpj0-y_m9UnrnZjf0pp8SxnZh_QYDBLQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="Argentina 1",Encuentro
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203583/ei/39-dX8OfEojNwATS6r3oBQ/ip/45.179.72.1/id/pGd_pI9g4F4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF4Dnpf4ZJ98u1GjyTQg175XyNqJFHuRPuHJwFdJiRTgCIHxt2R5fGhP5TUXry2vSRysWKejPPoJggJjvCxksCgpG/file/index.m3u8
-
-#EXTINF:-1 tvg-id="618" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Canal_de_la_Ciudad.png/133px-Logo_Canal_de_la_Ciudad.png" group-title="Argentina 1",Canal de la Ciudad
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1604203778/ei/oeCdX4uXOuaI-LAPiMqb2As/ip/45.179.72.1/id/awXmi7K2Agk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMlucTA8ip8EHBpXCuECL_Ujtnb60JnlaA6DGzZqIza9AiBSTytlKQZ6dW5yBKDDuJ-3XE2ujLLK3AL8GJNUPtb3_w%3D%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/fgrauI0.png" group-title="Argentina1",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
  
@@ -523,21 +556,6 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w83wr1S.png" tvg-country="ES" tvg-url="" group-title="España2",Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Dance
-http://145.239.2.125:32325/live/2ba905a6cb5544e886b41e7d24b6f00b/2f3bb8f3356648bebf5cd2665d685324/56.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Hit List
-http://145.239.2.125:32325/live/cba9a9337ab54eb7bb53465afcecfe60/9b2d3f50c2d44ecd909745a3344347a1/58.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Urbana
-http://145.239.2.125:32325/live/5793444c0a3049e1a0a807c6d16049b3/4391c8e2b09949e89b71bf2fd637a0d6/62.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Pop Hits
-http://145.239.2.125:32325/live/8ed02aeb39fb400cbe9029f6b31989f9/2c471a926f714d4eb2c668ee5009963a/64.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Music Choice Pop Latino
-http://145.239.2.125:32325/live/253b6173ce034ebcb272a0a1f94a0c33/dce43de5d2f745fcbc6888d8fd37dcf2/65.m3u8
 
 #EXTINF:-1 tvg-logo="https://ibizaglobal.tv/wp-content/uploads/2017/03/LOGO-GLOBALTV.png" group-title="MUSICA",Ibiza Global TV (España)
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
